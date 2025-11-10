@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YA Book Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Young Adult Book Tracker</h1>
+            <p class="subtitle">Track your reading journey through 100 essential YA novels</p>
+        </header>
+
+        <div class="stats-container">
+            <div class="stat-card">
+                <h3 id="books-read">0</h3>
+                <p>Books Read</p>
+            </div>
+            <div class="stat-card">
+                <h3 id="books-unread">100</h3>
+                <p>Books to Read</p>
+            </div>
+            <div class="stat-card">
+                <h3 id="avg-rating">0.0</h3>
+                <p>Average Rating</p>
+            </div>
+        </div>
+
+        <div class="filters-container">
+            <div class="filter-group">
+                <label for="status-filter">Status:</label>
+                <select id="status-filter">
+                    <option value="all">All Books</option>
+                    <option value="read">Read</option>
+                    <option value="unread">Not Yet Read</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="genre-filter">Genre:</label>
+                <select id="genre-filter">
+                    <option value="all">All Genres</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="theme-filter">Theme:</label>
+                <select id="theme-filter">
+                    <option value="all">All Themes</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="search-input">Search:</label>
+                <input type="text" id="search-input" placeholder="Search by title or author...">
+            </div>
+
+            <button id="reset-filters" class="btn btn-secondary">Reset Filters</button>
+        </div>
+
+        <div class="sort-container">
+            <label for="sort-select">Sort by:</label>
+            <select id="sort-select">
+                <option value="title-asc">Title (A-Z)</option>
+                <option value="title-desc">Title (Z-A)</option>
+                <option value="author-asc">Author (A-Z)</option>
+                <option value="author-desc">Author (Z-A)</option>
+                <option value="year-asc">Year (Oldest First)</option>
+                <option value="year-desc">Year (Newest First)</option>
+                <option value="rating-desc">Rating (Highest First)</option>
+                <option value="rating-asc">Rating (Lowest First)</option>
+            </select>
+        </div>
+
+        <div class="books-container" id="books-container">
+            <!-- Books will be dynamically loaded here -->
+        </div>
+    </div>
+
+    <!-- Modal for book details -->
+    <div id="book-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modal-title"></h2>
+            <p id="modal-author"></p>
+            <div class="modal-details">
+                <p><strong>Year:</strong> <span id="modal-year"></span></p>
+                <p><strong>Genre:</strong> <span id="modal-genre"></span></p>
+                <p><strong>Themes:</strong> <span id="modal-themes"></span></p>
+            </div>
+            <div class="rating-section">
+                <label>Your Rating:</label>
+                <div class="star-rating" id="modal-rating">
+                    <span class="star" data-rating="1">&#9733;</span>
+                    <span class="star" data-rating="2">&#9733;</span>
+                    <span class="star" data-rating="3">&#9733;</span>
+                    <span class="star" data-rating="4">&#9733;</span>
+                    <span class="star" data-rating="5">&#9733;</span>
+                </div>
+            </div>
+            <div class="modal-actions">
+                <button id="mark-read" class="btn btn-primary">Mark as Read</button>
+                <button id="mark-unread" class="btn btn-secondary">Mark as Unread</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
