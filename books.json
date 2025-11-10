@@ -5,7 +5,9 @@
     "author": "Suzanne Collins",
     "year": 2008,
     "genre": "Dystopian",
-    "themes": ["survival", "rebellion", "romance", "government control"]
+    "themes": ["survival", "rebellion", "romance", "government control"],
+    "description": "In a dystopian future, Katniss Everdeen volunteers to take her sister's place in the Hunger Games, a televised fight to the death. A gripping tale of survival, sacrifice, and rebellion against tyranny.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg"
   },
   {
     "id": 2,
@@ -13,7 +15,9 @@
     "author": "J.K. Rowling",
     "year": 1997,
     "genre": "Fantasy",
-    "themes": ["magic", "friendship", "coming-of-age", "good vs evil"]
+    "themes": ["magic", "friendship", "coming-of-age", "good vs evil"],
+    "description": "Harry discovers he's a wizard on his 11th birthday and enters Hogwarts School of Witchcraft and Wizardry. The beginning of an epic journey filled with magic, friendship, and the fight against dark forces.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598823299i/42844155.jpg"
   },
   {
     "id": 3,
@@ -21,7 +25,9 @@
     "author": "John Green",
     "year": 2012,
     "genre": "Contemporary",
-    "themes": ["illness", "romance", "mortality", "philosophy"]
+    "themes": ["illness", "romance", "mortality", "philosophy"],
+    "description": "Hazel and Augustus are two teens who meet in a cancer support group. Their love story is heartbreaking and beautiful, exploring life, death, and everything in between.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660273739i/11870085.jpg"
   },
   {
     "id": 4,
@@ -29,7 +35,9 @@
     "author": "Stephenie Meyer",
     "year": 2005,
     "genre": "Paranormal Romance",
-    "themes": ["vampires", "romance", "forbidden love", "supernatural"]
+    "themes": ["vampires", "romance", "forbidden love", "supernatural"],
+    "description": "Bella Swan moves to Forks and falls for the mysterious Edward Cullen, only to discover he's a vampire. A tale of forbidden love and supernatural danger.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361039443i/41865.jpg"
   },
   {
     "id": 5,
@@ -37,7 +45,9 @@
     "author": "Veronica Roth",
     "year": 2011,
     "genre": "Dystopian",
-    "themes": ["identity", "choice", "rebellion", "society"]
+    "themes": ["identity", "choice", "rebellion", "society"],
+    "description": "In a world divided by factions, Tris discovers she's Divergent and doesn't fit into any one group. She must hide her identity while uncovering a conspiracy that threatens everyone she loves.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618526890i/13335037.jpg"
   },
   {
     "id": 6,
@@ -45,7 +55,9 @@
     "author": "James Dashner",
     "year": 2009,
     "genre": "Dystopian",
-    "themes": ["survival", "memory", "mystery", "friendship"]
+    "themes": ["survival", "memory", "mystery", "friendship"],
+    "description": "Thomas wakes up in an elevator with no memory except his name, arriving in the Glade surrounded by a massive maze. He and the other boys must solve the maze to escape and uncover the truth.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375596592i/6186357.jpg"
   },
   {
     "id": 7,
@@ -53,7 +65,9 @@
     "author": "Rick Riordan",
     "year": 2005,
     "genre": "Fantasy",
-    "themes": ["mythology", "adventure", "friendship", "identity"]
+    "themes": ["mythology", "adventure", "friendship", "identity"],
+    "description": "Percy discovers he's a demigod, son of Poseidon, and must prevent a war between the Greek gods. An action-packed adventure blending modern life with ancient mythology.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400602609i/28187.jpg"
   },
   {
     "id": 8,
@@ -61,7 +75,9 @@
     "author": "Stephen Chbosky",
     "year": 1999,
     "genre": "Contemporary",
-    "themes": ["mental health", "friendship", "trauma", "coming-of-age"]
+    "themes": ["mental health", "friendship", "trauma", "coming-of-age"],
+    "description": "Charlie navigates high school while dealing with mental health issues and past trauma. Told through letters, it's a poignant story of friendship, love, and finding where you belong.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1561044881i/22628.jpg"
   },
   {
     "id": 9,
@@ -69,7 +85,9 @@
     "author": "Rainbow Rowell",
     "year": 2013,
     "genre": "Contemporary Romance",
-    "themes": ["first love", "abuse", "family", "identity"]
+    "themes": ["first love", "abuse", "family", "identity"],
+    "description": "Two misfits, Eleanor and Park, fall in love on the school bus. Set in 1986, this is a bittersweet story about first love and the courage to be yourself.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660145887i/15745753.jpg"
   },
   {
     "id": 10,
@@ -77,7 +95,9 @@
     "author": "Jenny Han",
     "year": 2014,
     "genre": "Contemporary Romance",
-    "themes": ["romance", "family", "culture", "identity"]
+    "themes": ["romance", "family", "culture", "identity"],
+    "description": "Lara Jean's secret love letters are mailed out to all her crushes, turning her life upside down. A sweet, charming romance about family, identity, and finding real love.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673638015i/15749186.jpg"
   },
   {
     "id": 11,
@@ -85,7 +105,9 @@
     "author": "Markus Zusak",
     "year": 2005,
     "genre": "Historical Fiction",
-    "themes": ["war", "death", "literature", "courage"]
+    "themes": ["war", "death", "literature", "courage"],
+    "description": "Narrated by Death, this is the story of Liesel, a girl living in Nazi Germany who steals books and shares them. A haunting tale about the power of words during wartime.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522157426i/19063.jpg"
   },
   {
     "id": 12,
@@ -93,7 +115,9 @@
     "author": "John Green",
     "year": 2005,
     "genre": "Contemporary",
-    "themes": ["grief", "friendship", "philosophy", "coming-of-age"]
+    "themes": ["grief", "friendship", "philosophy", "coming-of-age"],
+    "description": "Miles goes to boarding school seeking 'the Great Perhaps' and meets the fascinating Alaska Young. A profound exploration of love, loss, and searching for meaning.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645200191i/99561.jpg"
   },
   {
     "id": 13,
@@ -101,7 +125,9 @@
     "author": "Angie Thomas",
     "year": 2017,
     "genre": "Contemporary",
-    "themes": ["racism", "activism", "identity", "police brutality"]
+    "themes": ["racism", "activism", "identity", "police brutality"],
+    "description": "Starr witnesses the fatal shooting of her unarmed friend by a police officer. A powerful, timely story about finding your voice and fighting for justice.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1476775603i/32075671.jpg"
   },
   {
     "id": 14,
@@ -109,7 +135,9 @@
     "author": "Leigh Bardugo",
     "year": 2015,
     "genre": "Fantasy",
-    "themes": ["heist", "friendship", "trauma", "magic"]
+    "themes": ["heist", "friendship", "trauma", "magic"],
+    "description": "Six dangerous outcasts attempt an impossible heist in this fantasy world. Filled with magic, betrayal, and found family, it's an addictive page-turner.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628174647i/23437156.jpg"
   },
   {
     "id": 15,
@@ -117,7 +145,9 @@
     "author": "Lois Lowry",
     "year": 1993,
     "genre": "Dystopian",
-    "themes": ["memory", "conformity", "freedom", "choice"]
+    "themes": ["memory", "conformity", "freedom", "choice"],
+    "description": "In a seemingly perfect society without pain or choice, Jonas is chosen to receive all memories of the past. He discovers the dark truth behind his community's harmony.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342493368i/3636.jpg"
   },
   {
     "id": 16,
@@ -125,7 +155,9 @@
     "author": "Laurie Halse Anderson",
     "year": 1999,
     "genre": "Contemporary",
-    "themes": ["sexual assault", "trauma", "voice", "recovery"]
+    "themes": ["sexual assault", "trauma", "voice", "recovery"],
+    "description": "After calling the police at a party, Melinda becomes an outcast. Her journey to find her voice again after trauma is powerful and important.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673640413i/439288.jpg"
   },
   {
     "id": 17,
@@ -133,7 +165,9 @@
     "author": "Sabaa Tahir",
     "year": 2015,
     "genre": "Fantasy",
-    "themes": ["rebellion", "military", "oppression", "romance"]
+    "themes": ["rebellion", "military", "oppression", "romance"],
+    "description": "Laia is a slave and Elias is a soldier in the Martial Empire. Their paths cross in this brutal world inspired by ancient Rome, where they fight for freedom and survival.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606054095i/27774758.jpg"
   },
   {
     "id": 18,
@@ -141,7 +175,9 @@
     "author": "Rick Yancey",
     "year": 2013,
     "genre": "Science Fiction",
-    "themes": ["alien invasion", "survival", "trust", "humanity"]
+    "themes": ["alien invasion", "survival", "trust", "humanity"],
+    "description": "After four waves of deadly alien attacks, Cassie fights to survive and find her brother. In a world where trust is dangerous, she must decide who to believe.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465617151i/16101128.jpg"
   },
   {
     "id": 19,
@@ -149,7 +185,9 @@
     "author": "Cassandra Clare",
     "year": 2007,
     "genre": "Fantasy",
-    "themes": ["shadowhunters", "magic", "demons", "romance"]
+    "themes": ["shadowhunters", "magic", "demons", "romance"],
+    "description": "Clary discovers a hidden world of Shadowhunters who hunt demons. As she's drawn into their world, she uncovers secrets about her past and her destiny.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432730315i/256683.jpg"
   },
   {
     "id": 20,
@@ -157,7 +195,9 @@
     "author": "Sarah J. Maas",
     "year": 2015,
     "genre": "Fantasy Romance",
-    "themes": ["faeries", "romance", "magic", "curse"]
+    "themes": ["faeries", "romance", "magic", "curse"],
+    "description": "Feyre kills a wolf and is taken to the faerie lands as punishment. This Beauty and the Beast retelling is filled with magic, romance, and dangerous court politics.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628709212i/16096824.jpg"
   },
   {
     "id": 21,
@@ -165,7 +205,9 @@
     "author": "S.E. Hinton",
     "year": 1967,
     "genre": "Contemporary",
-    "themes": ["class conflict", "friendship", "violence", "family"]
+    "themes": ["class conflict", "friendship", "violence", "family"],
+    "description": "Ponyboy and his gang of greasers fight against the Socs in 1960s Oklahoma. A timeless story about class divisions, family, and staying gold.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442129426i/231804.jpg"
   },
   {
     "id": 22,
@@ -173,7 +215,9 @@
     "author": "Becky Albertalli",
     "year": 2015,
     "genre": "Contemporary Romance",
-    "themes": ["LGBTQ+", "coming out", "friendship", "romance"]
+    "themes": ["LGBTQ+", "coming out", "friendship", "romance"],
+    "description": "Simon is gay, closeted, and being blackmailed. As he navigates coming out on his own terms, he falls for an anonymous online pen pal. A heartwarming, funny romance.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650442672i/19547856.jpg"
   },
   {
     "id": 23,
@@ -181,7 +225,9 @@
     "author": "Victoria Aveyard",
     "year": 2015,
     "genre": "Fantasy",
-    "themes": ["class warfare", "superpowers", "rebellion", "betrayal"]
+    "themes": ["class warfare", "superpowers", "rebellion", "betrayal"],
+    "description": "In a world divided by blood color, Mare discovers she has powers despite her common red blood. Thrust into the Silver elite's world, she becomes a symbol of rebellion.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657700231i/22328546.jpg"
   },
   {
     "id": 24,
@@ -189,7 +235,9 @@
     "author": "Sarah J. Maas",
     "year": 2012,
     "genre": "Fantasy",
-    "themes": ["assassins", "magic", "competition", "romance"]
+    "themes": ["assassins", "magic", "competition", "romance"],
+    "description": "Celaena is an assassin offered freedom if she wins a deadly competition to become the king's champion. Magic, romance, and political intrigue collide in this fantasy adventure.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673566425i/76703.jpg"
   },
   {
     "id": 25,
@@ -197,7 +245,9 @@
     "author": "Ally Condie",
     "year": 2010,
     "genre": "Dystopian",
-    "themes": ["control", "choice", "love", "society"]
+    "themes": ["control", "choice", "love", "society"],
+    "description": "In a society where everything is decided for you, including your spouse, Cassia is matched with her best friend. But she glimpses another face and begins to question everything.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327887606i/7735333.jpg"
   },
   {
     "id": 26,
@@ -205,7 +255,9 @@
     "author": "Kiera Cass",
     "year": 2012,
     "genre": "Dystopian Romance",
-    "themes": ["competition", "romance", "class", "choice"]
+    "themes": ["competition", "romance", "class", "choice"],
+    "description": "America is selected to compete for Prince Maxon's heart in a Bachelor-style competition. In a divided society, this competition offers a chance to escape her caste.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1592308881i/10507293.jpg"
   },
   {
     "id": 27,
@@ -213,7 +265,9 @@
     "author": "Jay Asher",
     "year": 2007,
     "genre": "Contemporary",
-    "themes": ["suicide", "bullying", "consequences", "mental health"]
+    "themes": ["suicide", "bullying", "consequences", "mental health"],
+    "description": "Clay receives cassette tapes from Hannah, who recently died by suicide, explaining the thirteen reasons why. A powerful exploration of how our actions affect others.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672456742i/1217100.jpg"
   },
   {
     "id": 28,
@@ -221,7 +275,9 @@
     "author": "Stephanie Garber",
     "year": 2017,
     "genre": "Fantasy",
-    "themes": ["magic", "games", "sisters", "mystery"]
+    "themes": ["magic", "games", "sisters", "mystery"],
+    "description": "Scarlett finally gets tickets to Caraval, a magical performance where the audience participates. But when her sister is kidnapped, the game becomes dangerously real.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679254758i/27883214.jpg"
   },
   {
     "id": 29,
@@ -229,7 +285,9 @@
     "author": "Marissa Meyer",
     "year": 2012,
     "genre": "Science Fiction",
-    "themes": ["cyborgs", "fairy tale retelling", "rebellion", "romance"]
+    "themes": ["cyborgs", "fairy tale retelling", "rebellion", "romance"],
+    "description": "Cinder is a cyborg mechanic in New Beijing who gets caught up in a revolution. This Cinderella retelling features plague, lunar people, and a prince in disguise.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654985900i/11235712.jpg"
   },
   {
     "id": 30,
@@ -237,7 +295,9 @@
     "author": "Lauren Oliver",
     "year": 2011,
     "genre": "Dystopian",
-    "themes": ["love as disease", "control", "rebellion", "freedom"]
+    "themes": ["love as disease", "control", "rebellion", "freedom"],
+    "description": "In a world where love is considered a disease, Lena awaits the cure. But 95 days before her procedure, she falls in love and must choose between safety and freedom.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327890411i/11614718.jpg"
   },
   {
     "id": 31,
@@ -245,7 +305,9 @@
     "author": "Marie Lu",
     "year": 2011,
     "genre": "Dystopian",
-    "themes": ["class divide", "rebellion", "government conspiracy", "romance"]
+    "themes": ["class divide", "rebellion", "government conspiracy", "romance"],
+    "description": "June is a military prodigy and Day is the Republic's most wanted criminal. When their paths cross, they uncover shocking truths about their dystopian society.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662531883i/9275658.jpg"
   },
   {
     "id": 32,
@@ -253,7 +315,9 @@
     "author": "Ransom Riggs",
     "year": 2011,
     "genre": "Fantasy",
-    "themes": ["peculiars", "time loops", "family", "mystery"]
+    "themes": ["peculiars", "time loops", "family", "mystery"],
+    "description": "Jacob discovers an orphanage for children with peculiar abilities, illustrated with vintage photographs. A dark, imaginative tale blending reality and fantasy.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669923053i/9460487.jpg"
   },
   {
     "id": 33,
@@ -261,7 +325,9 @@
     "author": "E. Lockhart",
     "year": 2014,
     "genre": "Contemporary Mystery",
-    "themes": ["memory", "family secrets", "privilege", "tragedy"]
+    "themes": ["memory", "family secrets", "privilege", "tragedy"],
+    "description": "Cadence can't remember what happened the summer she nearly drowned. As she pieces together the truth about her privileged family, dark secrets emerge.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1402749479i/16143347.jpg"
   },
   {
     "id": 34,
@@ -269,7 +335,9 @@
     "author": "Sherman Alexie",
     "year": 2007,
     "genre": "Contemporary",
-    "themes": ["identity", "poverty", "culture", "resilience"]
+    "themes": ["identity", "poverty", "culture", "resilience"],
+    "description": "Junior leaves his troubled school on the Spokane Indian Reservation to attend an all-white school. A funny, heartbreaking story about identity and perseverance.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537137506i/693208.jpg"
   },
   {
     "id": 35,
@@ -277,7 +345,9 @@
     "author": "Rainbow Rowell",
     "year": 2015,
     "genre": "Fantasy",
-    "themes": ["magic", "LGBTQ+", "chosen one", "romance"]
+    "themes": ["magic", "LGBTQ+", "chosen one", "romance"],
+    "description": "Simon is the worst Chosen One ever. In his final year at magic school, he must defeat the Insidious Humdrum while dealing with his feelings for his vampire roommate.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465677699i/32768522.jpg"
   },
   {
     "id": 36,
@@ -285,7 +355,9 @@
     "author": "Alexandra Bracken",
     "year": 2012,
     "genre": "Science Fiction",
-    "themes": ["superpowers", "government control", "survival", "friendship"]
+    "themes": ["superpowers", "government control", "survival", "friendship"],
+    "description": "After a disease kills most children and gives survivors powers, Ruby escapes a government camp. She joins other powered kids on the run from those who fear them.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654654400i/10576365.jpg"
   },
   {
     "id": 37,
@@ -293,7 +365,9 @@
     "author": "Tahereh Mafi",
     "year": 2011,
     "genre": "Dystopian",
-    "themes": ["power", "touch", "rebellion", "romance"]
+    "themes": ["power", "touch", "rebellion", "romance"],
+    "description": "Juliette's touch is lethal. Locked away as a weapon, she's drawn into a rebellion when she meets someone who can touch her. A lyrical, intense dystopian romance.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1310649047i/10429045.jpg"
   },
   {
     "id": 38,
@@ -301,7 +375,9 @@
     "author": "Cassandra Clare",
     "year": 2007,
     "genre": "Fantasy",
-    "themes": ["shadowhunters", "demons", "family secrets", "romance"]
+    "themes": ["shadowhunters", "demons", "family secrets", "romance"],
+    "description": "When Clary's mother disappears, she's drawn into the world of Shadowhunters who hunt demons. Urban fantasy filled with action, romance, and shocking revelations.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432730315i/256683.jpg"
   },
   {
     "id": 39,
@@ -309,7 +385,9 @@
     "author": "Scott Westerfeld",
     "year": 2005,
     "genre": "Dystopian",
-    "themes": ["beauty standards", "conformity", "rebellion", "identity"]
+    "themes": ["beauty standards", "conformity", "rebellion", "identity"],
+    "description": "In a world where everyone gets surgery at 16 to become 'pretty,' Tally awaits her turn. But meeting rebels who reject the surgery makes her question everything.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430344613i/24770.jpg"
   },
   {
     "id": 40,
@@ -317,7 +395,9 @@
     "author": "Maggie Stiefvater",
     "year": 2011,
     "genre": "Fantasy",
-    "themes": ["water horses", "competition", "survival", "romance"]
+    "themes": ["water horses", "competition", "survival", "romance"],
+    "description": "Every year, riders race deadly water horses from the sea. Puck is the first girl to enter, and Sean is the returning champion. A unique, atmospheric fantasy.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1491339813i/10626594.jpg"
   },
   {
     "id": 41,
@@ -325,7 +405,9 @@
     "author": "Benjamin Alire Sáenz",
     "year": 2012,
     "genre": "Contemporary",
-    "themes": ["LGBTQ+", "friendship", "identity", "family"]
+    "themes": ["LGBTQ+", "friendship", "identity", "family"],
+    "description": "Aristotle and Dante become friends one summer, changing each other's lives forever. A beautiful, poetic story about identity, family, and first love.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328320381i/12000020.jpg"
   },
   {
     "id": 42,
@@ -333,7 +415,9 @@
     "author": "Maggie Stiefvater",
     "year": 2012,
     "genre": "Fantasy",
-    "themes": ["magic", "psychics", "Welsh kings", "friendship"]
+    "themes": ["magic", "psychics", "Welsh kings", "friendship"],
+    "description": "Blue has been told she'll kill her true love if she kisses him. When she joins four private school boys searching for a sleeping Welsh king, magic and danger unfold.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631820765i/17675462.jpg"
   },
   {
     "id": 43,
@@ -341,7 +425,9 @@
     "author": "Kristin Hannah",
     "year": 2008,
     "genre": "Contemporary",
-    "themes": ["friendship", "life journey", "loyalty", "loss"]
+    "themes": ["friendship", "life journey", "loyalty", "loss"],
+    "description": "Tully and Kate become best friends in the 1970s and their bond spans decades. A moving story about the enduring power of female friendship through life's ups and downs.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405098546i/147913.jpg"
   },
   {
     "id": 44,
@@ -349,7 +435,9 @@
     "author": "Meg Cabot",
     "year": 2000,
     "genre": "Contemporary",
-    "themes": ["royalty", "identity", "coming-of-age", "humor"]
+    "themes": ["royalty", "identity", "coming-of-age", "humor"],
+    "description": "Mia discovers she's a princess and heir to the throne of Genovia. A hilarious, heartwarming story about finding yourself when your life turns upside down.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327868566i/19246.jpg"
   },
   {
     "id": 45,
@@ -357,7 +445,9 @@
     "author": "Gayle Forman",
     "year": 2009,
     "genre": "Contemporary",
-    "themes": ["grief", "choice", "family", "music"]
+    "themes": ["grief", "choice", "family", "music"],
+    "description": "After a car accident leaves her in a coma, Mia has an out-of-body experience where she must choose whether to live or die. A heartbreaking story about love and loss.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1313094308i/5971022.jpg"
   },
   {
     "id": 46,
@@ -365,7 +455,9 @@
     "author": "Ann Brashares",
     "year": 2001,
     "genre": "Contemporary",
-    "themes": ["friendship", "growing up", "magic pants", "summer"]
+    "themes": ["friendship", "growing up", "magic pants", "summer"],
+    "description": "Four best friends find a pair of jeans that magically fits them all. As they share the pants over the summer, they share their adventures and stay connected.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389616895i/73865.jpg"
   },
   {
     "id": 47,
@@ -373,7 +465,9 @@
     "author": "Richelle Mead",
     "year": 2007,
     "genre": "Paranormal Romance",
-    "themes": ["vampires", "friendship", "duty", "romance"]
+    "themes": ["vampires", "friendship", "duty", "romance"],
+    "description": "Rose is training to be a guardian to her best friend Lissa, a vampire princess. Action, romance, and vampire politics collide in this addictive series starter.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361425509i/345627.jpg"
   },
   {
     "id": 48,
@@ -381,7 +475,9 @@
     "author": "Becca Fitzpatrick",
     "year": 2009,
     "genre": "Paranormal Romance",
-    "themes": ["fallen angels", "romance", "mystery", "supernatural"]
+    "themes": ["fallen angels", "romance", "mystery", "supernatural"],
+    "description": "Nora is drawn to the mysterious Patch despite sensing danger. As she uncovers his secrets, she discovers fallen angels and a deadly conspiracy.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375484243i/6339664.jpg"
   },
   {
     "id": 49,
@@ -389,7 +485,9 @@
     "author": "Lauren Kate",
     "year": 2009,
     "genre": "Paranormal Romance",
-    "themes": ["angels", "reincarnation", "romance", "mystery"]
+    "themes": ["angels", "reincarnation", "romance", "mystery"],
+    "description": "Luce is drawn to Daniel at her new school, but he seems to know her. Their connection spans lifetimes in this romantic tale of fallen angels and eternal love.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320404144i/6487308.jpg"
   },
   {
     "id": 50,
@@ -397,7 +495,9 @@
     "author": "John Green",
     "year": 2012,
     "genre": "Contemporary",
-    "themes": ["cancer", "love", "mortality", "meaning"]
+    "themes": ["cancer", "love", "mortality", "meaning"],
+    "description": "Two teens meet at a cancer support group and embark on a life-changing journey. A beautiful meditation on life, death, and making the most of the time we have.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660273739i/11870085.jpg"
   },
   {
     "id": 51,
@@ -405,7 +505,9 @@
     "author": "Leigh Bardugo",
     "year": 2012,
     "genre": "Fantasy",
-    "themes": ["magic", "chosen one", "war", "romance"]
+    "themes": ["magic", "chosen one", "war", "romance"],
+    "description": "Alina discovers she has a rare power that could save her war-torn country. Swept into the lavish Grisha world, she uncovers dangerous secrets and dark magic.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674573895i/10194157.jpg"
   },
   {
     "id": 52,
@@ -413,7 +515,9 @@
     "author": "Kristin Cashore",
     "year": 2008,
     "genre": "Fantasy",
-    "themes": ["powers", "kingdoms", "independence", "romance"]
+    "themes": ["powers", "kingdoms", "independence", "romance"],
+    "description": "Katsa has a Grace for killing and serves as the king's enforcer. When she meets Prince Po, she begins to question her role and discover the true nature of her power.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597711652i/3236307.jpg"
   },
   {
     "id": 53,
@@ -421,7 +525,9 @@
     "author": "Gail Carson Levine",
     "year": 1997,
     "genre": "Fantasy",
-    "themes": ["fairy tale retelling", "curse", "obedience", "independence"]
+    "themes": ["fairy tale retelling", "curse", "obedience", "independence"],
+    "description": "Cursed with obedience, Ella must do anything she's told. This charming Cinderella retelling follows her quest to break the curse and control her own destiny.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327906717i/24337.jpg"
   },
   {
     "id": 54,
@@ -429,7 +535,9 @@
     "author": "Patrick Rothfuss",
     "year": 2007,
     "genre": "Fantasy",
-    "themes": ["magic", "music", "revenge", "storytelling"]
+    "themes": ["magic", "music", "revenge", "storytelling"],
+    "description": "Kvothe tells his story: from a traveling performer to a legendary wizard. Epic fantasy filled with beautiful prose, magic, music, and mystery.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1270352123i/186074.jpg"
   },
   {
     "id": 55,
@@ -437,7 +545,9 @@
     "author": "Christopher Paolini",
     "year": 2003,
     "genre": "Fantasy",
-    "themes": ["dragons", "magic", "destiny", "rebellion"]
+    "themes": ["dragons", "magic", "destiny", "rebellion"],
+    "description": "Eragon finds a dragon egg and becomes a Dragon Rider, last hope against the evil king. A classic fantasy adventure filled with magic, dragons, and destiny.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366212852i/113436.jpg"
   },
   {
     "id": 56,
@@ -445,7 +555,9 @@
     "author": "Philip Pullman",
     "year": 1995,
     "genre": "Fantasy",
-    "themes": ["parallel worlds", "daemons", "adventure", "religion"]
+    "themes": ["parallel worlds", "daemons", "adventure", "religion"],
+    "description": "Lyra journeys to the Arctic to rescue kidnapped children, uncovering a sinister plot. A rich fantasy exploring parallel worlds, science, and religion.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505766203i/119322.jpg"
   },
   {
     "id": 57,
@@ -453,7 +565,9 @@
     "author": "Madeleine L'Engle",
     "year": 1962,
     "genre": "Science Fiction",
-    "themes": ["space travel", "family", "good vs evil", "time"]
+    "themes": ["space travel", "family", "good vs evil", "time"],
+    "description": "Meg travels through space and time to rescue her father from evil forces. A classic sci-fi adventure about the power of love and individuality.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671638950i/18131.jpg"
   },
   {
     "id": 58,
@@ -461,7 +575,9 @@
     "author": "Stephenie Meyer",
     "year": 2008,
     "genre": "Science Fiction",
-    "themes": ["alien invasion", "identity", "romance", "resistance"]
+    "themes": ["alien invasion", "identity", "romance", "resistance"],
+    "description": "An alien soul inhabits Melanie's body but can't erase her consciousness. Together they form an unlikely alliance in this story about humanity and identity.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494336429i/1656185.jpg"
   },
   {
     "id": 59,
@@ -469,7 +585,9 @@
     "author": "Laini Taylor",
     "year": 2011,
     "genre": "Fantasy",
-    "themes": ["angels", "chimaera", "war", "romance"]
+    "themes": ["angels", "chimaera", "war", "romance"],
+    "description": "Karou collects teeth for her mysterious guardian and dreams of another life. When she meets a beautiful angel, she uncovers her true identity and a war between worlds.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488304571i/8490112.jpg"
   },
   {
     "id": 60,
@@ -477,7 +595,9 @@
     "author": "Jandy Nelson",
     "year": 2014,
     "genre": "Contemporary",
-    "themes": ["art", "family", "LGBTQ+", "grief"]
+    "themes": ["art", "family", "LGBTQ+", "grief"],
+    "description": "Twins Noah and Jude tell their story from different times, revealing how their family fell apart. A beautiful, emotional story about art, love, and healing.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1395494930i/20820994.jpg"
   },
   {
     "id": 61,
@@ -485,7 +605,9 @@
     "author": "Nicola Yoon",
     "year": 2015,
     "genre": "Contemporary Romance",
-    "themes": ["illness", "isolation", "first love", "freedom"]
+    "themes": ["illness", "isolation", "first love", "freedom"],
+    "description": "Maddy is allergic to the world and hasn't left her house in seventeen years. When a boy moves in next door, she risks everything for love and freedom.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451438766i/18692431.jpg"
   },
   {
     "id": 62,
@@ -493,7 +615,9 @@
     "author": "Nicola Yoon",
     "year": 2016,
     "genre": "Contemporary Romance",
-    "themes": ["immigration", "fate", "love", "culture"]
+    "themes": ["immigration", "fate", "love", "culture"],
+    "description": "Natasha is being deported and Daniel is on his way to an interview. They meet and fall in love in one day, questioning fate, love, and the universe.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470839956i/28763485.jpg"
   },
   {
     "id": 63,
@@ -501,7 +625,9 @@
     "author": "Jerry Spinelli",
     "year": 2000,
     "genre": "Contemporary",
-    "themes": ["individuality", "conformity", "acceptance", "kindness"]
+    "themes": ["individuality", "conformity", "acceptance", "kindness"],
+    "description": "Stargirl is wonderfully different - kind, weird, and genuine. When she joins Leo's high school, she changes everything, challenging the pressure to conform.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651763938i/24344.jpg"
   },
   {
     "id": 64,
@@ -509,7 +635,9 @@
     "author": "John Green",
     "year": 2008,
     "genre": "Contemporary Mystery",
-    "themes": ["mystery", "perception", "friendship", "identity"]
+    "themes": ["mystery", "perception", "friendship", "identity"],
+    "description": "When Margo disappears, Quentin follows her clues across Florida. A mystery about perception, identity, and learning that people are more complex than we imagine.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391206955i/6442769.jpg"
   },
   {
     "id": 65,
@@ -517,7 +645,9 @@
     "author": "Kami Garcia & Margaret Stohl",
     "year": 2009,
     "genre": "Paranormal Romance",
-    "themes": ["witches", "curses", "small town", "romance"]
+    "themes": ["witches", "curses", "small town", "romance"],
+    "description": "In a small Southern town, Ethan meets the mysterious Lena, a Caster with a family curse. Gothic romance blending magic, history, and forbidden love.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447871175i/3969588.jpg"
   },
   {
     "id": 66,
@@ -525,7 +655,9 @@
     "author": "Louis Sachar",
     "year": 1998,
     "genre": "Contemporary",
-    "themes": ["justice", "friendship", "fate", "family curse"]
+    "themes": ["justice", "friendship", "fate", "family curse"],
+    "description": "Stanley is sent to a detention camp where boys dig holes in the desert. As past and present intertwine, a clever story about justice and breaking curses unfolds.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656928265i/38709.jpg"
   },
   {
     "id": 67,
@@ -533,7 +665,9 @@
     "author": "R.J. Palacio",
     "year": 2012,
     "genre": "Contemporary",
-    "themes": ["acceptance", "disability", "kindness", "friendship"]
+    "themes": ["acceptance", "disability", "kindness", "friendship"],
+    "description": "Auggie has a facial difference and starts fifth grade at a mainstream school. A moving story about kindness, acceptance, and choosing to be more than ordinary.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309060976i/11387515.jpg"
   },
   {
     "id": 68,
@@ -541,7 +675,9 @@
     "author": "Rick Riordan",
     "year": 2005,
     "genre": "Fantasy",
-    "themes": ["mythology", "friendship", "adventure", "identity"]
+    "themes": ["mythology", "friendship", "adventure", "identity"],
+    "description": "Percy discovers he's a demigod and must prevent war among the Greek gods. Fast-paced adventure mixing mythology with modern life and plenty of humor.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400602609i/28187.jpg"
   },
   {
     "id": 69,
@@ -549,7 +685,9 @@
     "author": "Cassandra Clare",
     "year": 2010,
     "genre": "Fantasy",
-    "themes": ["steampunk", "shadowhunters", "demons", "romance"]
+    "themes": ["steampunk", "shadowhunters", "demons", "romance"],
+    "description": "Tessa discovers she can shape-shift and is pulled into Victorian London's Shadowhunter world. Steampunk, demons, and a love triangle in gaslit London.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651662551i/7171637.jpg"
   },
   {
     "id": 70,
@@ -557,7 +695,9 @@
     "author": "Patrick Ness",
     "year": 2008,
     "genre": "Science Fiction",
-    "themes": ["noise", "coming-of-age", "morality", "survival"]
+    "themes": ["noise", "coming-of-age", "morality", "survival"],
+    "description": "Todd lives in a town where everyone can hear everyone's thoughts. When he discovers a patch of silence, he must flee and uncover the truth about his world.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358339742i/2118745.jpg"
   },
   {
     "id": 71,
@@ -565,7 +705,9 @@
     "author": "Ellen Hopkins",
     "year": 2004,
     "genre": "Contemporary",
-    "themes": ["addiction", "family", "consequences", "identity"]
+    "themes": ["addiction", "family", "consequences", "identity"],
+    "description": "Kristina tries meth once and becomes addicted. Written in verse, this raw, honest story explores addiction's devastating impact on a teen and her family.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1409697422i/4883.jpg"
   },
   {
     "id": 72,
@@ -573,7 +715,9 @@
     "author": "Neil Gaiman",
     "year": 2008,
     "genre": "Fantasy",
-    "themes": ["ghosts", "coming-of-age", "family", "murder mystery"]
+    "themes": ["ghosts", "coming-of-age", "family", "murder mystery"],
+    "description": "After his family is murdered, baby Bod is raised by ghosts in a graveyard. A unique coming-of-age story blending mystery, fantasy, and dark humor.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627845646i/2213661.jpg"
   },
   {
     "id": 73,
@@ -581,7 +725,9 @@
     "author": "Neil Gaiman",
     "year": 2002,
     "genre": "Fantasy Horror",
-    "themes": ["parallel worlds", "courage", "family", "horror"]
+    "themes": ["parallel worlds", "courage", "family", "horror"],
+    "description": "Coraline finds a door to an alternate world where her 'Other Mother' wants to keep her forever. A creepy, captivating tale about courage and appreciating what you have.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493497435i/17061.jpg"
   },
   {
     "id": 74,
@@ -589,7 +735,9 @@
     "author": "Robert Cormier",
     "year": 1974,
     "genre": "Contemporary",
-    "themes": ["conformity", "bullying", "rebellion", "corruption"]
+    "themes": ["conformity", "bullying", "rebellion", "corruption"],
+    "description": "Jerry refuses to sell chocolates for his school's fundraiser, standing up to a secret society and a corrupt teacher. A dark, provocative story about conformity.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388211542i/617071.jpg"
   },
   {
     "id": 75,
@@ -597,7 +745,9 @@
     "author": "Jennifer Lynn Barnes",
     "year": 2020,
     "genre": "Mystery",
-    "themes": ["inheritance", "puzzles", "mystery", "romance"]
+    "themes": ["inheritance", "puzzles", "mystery", "romance"],
+    "description": "Avery inherits a billionaire's fortune and must live with his hostile grandsons to solve elaborate puzzles. A page-turning mystery full of twists and riddles.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598558967i/51857200.jpg"
   },
   {
     "id": 76,
@@ -605,7 +755,9 @@
     "author": "Karen M. McManus",
     "year": 2017,
     "genre": "Mystery",
-    "themes": ["murder mystery", "secrets", "stereotypes", "friendship"]
+    "themes": ["murder mystery", "secrets", "stereotypes", "friendship"],
+    "description": "Five students enter detention, but only four leave alive. Everyone has secrets, and everyone is a suspect in this addictive murder mystery.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546642185i/32571395.jpg"
   },
   {
     "id": 77,
@@ -613,7 +765,9 @@
     "author": "Adam Silvera",
     "year": 2017,
     "genre": "Contemporary",
-    "themes": ["death", "LGBTQ+", "friendship", "living fully"]
+    "themes": ["death", "LGBTQ+", "friendship", "living fully"],
+    "description": "Mateo and Rufus receive calls saying they'll die today. They meet through an app and spend their last day living fully. A moving meditation on life and death.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685047109i/33385229.jpg"
   },
   {
     "id": 78,
@@ -621,7 +775,9 @@
     "author": "Tomi Adeyemi",
     "year": 2018,
     "genre": "Fantasy",
-    "themes": ["magic", "oppression", "West African mythology", "rebellion"]
+    "themes": ["magic", "oppression", "West African mythology", "rebellion"],
+    "description": "Zélie fights to restore magic to her people after a brutal monarchy destroyed all magi. West African-inspired fantasy about oppression, resistance, and power.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1531077858i/34728667.jpg"
   },
   {
     "id": 79,
@@ -629,7 +785,9 @@
     "author": "Holly Black",
     "year": 2018,
     "genre": "Fantasy",
-    "themes": ["faeries", "politics", "ambition", "romance"]
+    "themes": ["faeries", "politics", "ambition", "romance"],
+    "description": "Jude is mortal living in the treacherous High Court of Faerie. To belong, she'll scheme and fight, especially against the cruel Prince Cardan.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659120969i/26032825.jpg"
   },
   {
     "id": 80,
@@ -637,7 +795,9 @@
     "author": "Neal Shusterman",
     "year": 2016,
     "genre": "Science Fiction",
-    "themes": ["mortality", "ethics", "power", "immortality"]
+    "themes": ["mortality", "ethics", "power", "immortality"],
+    "description": "In a world without death, Scythes are chosen to kill to control population. Citra and Rowan are apprenticed to a scythe, but only one can emerge.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701027354i/28954189.jpg"
   },
   {
     "id": 81,
@@ -645,7 +805,9 @@
     "author": "Khaled Hosseini",
     "year": 2003,
     "genre": "Historical Fiction",
-    "themes": ["friendship", "betrayal", "redemption", "Afghanistan"]
+    "themes": ["friendship", "betrayal", "redemption", "Afghanistan"],
+    "description": "Amir recalls his childhood in Afghanistan and a terrible betrayal of his best friend Hassan. Decades later, he gets a chance at redemption.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484565687i/77203.jpg"
   },
   {
     "id": 82,
@@ -653,7 +815,9 @@
     "author": "Elizabeth Wein",
     "year": 2012,
     "genre": "Historical Fiction",
-    "themes": ["World War II", "friendship", "spies", "sacrifice"]
+    "themes": ["World War II", "friendship", "spies", "sacrifice"],
+    "description": "A British spy is captured in Nazi-occupied France and writes her confession. The story of an extraordinary friendship between two young women during WWII.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652549931i/11925514.jpg"
   },
   {
     "id": 83,
@@ -661,7 +825,9 @@
     "author": "Ellen Raskin",
     "year": 1978,
     "genre": "Mystery",
-    "themes": ["puzzle", "inheritance", "identity", "community"]
+    "themes": ["puzzle", "inheritance", "identity", "community"],
+    "description": "Sixteen people are chosen as heirs to Sam Westing's fortune and must solve the puzzle of who killed him. A clever, complex mystery with memorable characters.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630623741i/902.jpg"
   },
   {
     "id": 84,
@@ -669,7 +835,9 @@
     "author": "Garth Nix",
     "year": 1995,
     "genre": "Fantasy",
-    "themes": ["necromancy", "magic", "coming-of-age", "death"]
+    "themes": ["necromancy", "magic", "coming-of-age", "death"],
+    "description": "Sabriel must enter Death itself to rescue her father, the Abhorsen who keeps the dead from returning. Dark fantasy with a unique magic system.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586795805i/518848.jpg"
   },
   {
     "id": 85,
@@ -677,7 +845,9 @@
     "author": "Orson Scott Card",
     "year": 1985,
     "genre": "Science Fiction",
-    "themes": ["war", "strategy", "childhood", "morality"]
+    "themes": ["war", "strategy", "childhood", "morality"],
+    "description": "Ender is trained at Battle School to lead Earth's defense against an alien invasion. A brilliant exploration of war, morality, and the cost of victory.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408303130i/375802.jpg"
   },
   {
     "id": 86,
@@ -685,7 +855,9 @@
     "author": "Angie Thomas",
     "year": 2017,
     "genre": "Contemporary",
-    "themes": ["police brutality", "activism", "identity", "family"]
+    "themes": ["police brutality", "activism", "identity", "family"],
+    "description": "After witnessing police kill her friend, Starr must decide whether to speak out. A powerful story about finding your voice and demanding justice.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1476775603i/32075671.jpg"
   },
   {
     "id": 87,
@@ -693,7 +865,9 @@
     "author": "Nic Stone",
     "year": 2017,
     "genre": "Contemporary",
-    "themes": ["racism", "justice", "letters", "philosophy"]
+    "themes": ["racism", "justice", "letters", "philosophy"],
+    "description": "After a racist encounter, Justyce writes letters to Dr. Martin Luther King Jr. to process his experiences. A powerful exploration of race and justice in America.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500256027i/31491503.jpg"
   },
   {
     "id": 88,
@@ -701,7 +875,9 @@
     "author": "Elizabeth Acevedo",
     "year": 2018,
     "genre": "Contemporary",
-    "themes": ["poetry", "religion", "identity", "voice"]
+    "themes": ["poetry", "religion", "identity", "voice"],
+    "description": "Xiomara writes poetry to express feelings she can't voice in her strict household. A novel in verse about finding your voice and claiming your identity.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556915812i/38067852.jpg"
   },
   {
     "id": 89,
@@ -709,7 +885,9 @@
     "author": "Julie Murphy",
     "year": 2015,
     "genre": "Contemporary",
-    "themes": ["body positivity", "beauty pageants", "family", "confidence"]
+    "themes": ["body positivity", "beauty pageants", "family", "confidence"],
+    "description": "Willowdean enters a beauty pageant to prove a point to her former beauty-queen mother. A fun, empowering story about self-acceptance and confidence.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423871993i/18304322.jpg"
   },
   {
     "id": 90,
@@ -717,7 +895,9 @@
     "author": "Nancy Farmer",
     "year": 2002,
     "genre": "Science Fiction",
-    "themes": ["cloning", "identity", "ethics", "humanity"]
+    "themes": ["cloning", "identity", "ethics", "humanity"],
+    "description": "Matt is a clone of a powerful drug lord, raised to provide organs. This thought-provoking sci-fi explores identity, humanity, and what makes us who we are.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388179472i/13379.jpg"
   },
   {
     "id": 91,
@@ -725,7 +905,9 @@
     "author": "Patrick Ness",
     "year": 2011,
     "genre": "Contemporary Fantasy",
-    "themes": ["grief", "illness", "truth", "healing"]
+    "themes": ["grief", "illness", "truth", "healing"],
+    "description": "Conor's mother is dying, and a monster visits him at night to tell stories. A heartbreaking, beautiful exploration of grief, truth, and letting go.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618590732i/8621462.jpg"
   },
   {
     "id": 92,
@@ -733,7 +915,9 @@
     "author": "Sherman Alexie",
     "year": 2007,
     "genre": "Contemporary",
-    "themes": ["Native American", "poverty", "identity", "humor"]
+    "themes": ["Native American", "poverty", "identity", "humor"],
+    "description": "Junior leaves the reservation to attend an all-white school. A funny, heartbreaking story about identity, poverty, and finding hope.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537137506i/693208.jpg"
   },
   {
     "id": 93,
@@ -741,7 +925,9 @@
     "author": "V.E. Schwab",
     "year": 2015,
     "genre": "Fantasy",
-    "themes": ["parallel worlds", "magic", "adventure", "danger"]
+    "themes": ["parallel worlds", "magic", "adventure", "danger"],
+    "description": "Kell is one of few who can travel between parallel Londons. When he smuggles a dangerous artifact, he teams up with a thief to save the worlds.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500660977i/22055262.jpg"
   },
   {
     "id": 94,
@@ -749,7 +935,9 @@
     "author": "Renée Ahdieh",
     "year": 2015,
     "genre": "Fantasy Romance",
-    "themes": ["Arabian Nights retelling", "revenge", "romance", "magic"]
+    "themes": ["Arabian Nights retelling", "revenge", "romance", "magic"],
+    "description": "Shahrzad volunteers to marry the murderous Caliph, planning revenge. But she discovers there's more to him than she thought in this lush Arabian Nights retelling.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1449699215i/18798983.jpg"
   },
   {
     "id": 95,
@@ -757,7 +945,9 @@
     "author": "Stephenie Meyer",
     "year": 2005,
     "genre": "Paranormal Romance",
-    "themes": ["vampires", "forbidden love", "danger", "choice"]
+    "themes": ["vampires", "forbidden love", "danger", "choice"],
+    "description": "Bella falls for Edward, a vampire, beginning an epic supernatural romance. The start of a cultural phenomenon about love, danger, and impossible choices.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361039443i/41865.jpg"
   },
   {
     "id": 96,
@@ -765,7 +955,9 @@
     "author": "Cassandra Clare",
     "year": 2007,
     "genre": "Fantasy",
-    "themes": ["demons", "angels", "family", "romance"]
+    "themes": ["demons", "angels", "family", "romance"],
+    "description": "Clary enters the hidden world of Shadowhunters who protect humans from demons. Urban fantasy packed with action, romance, and shocking family secrets.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432730315i/256683.jpg"
   },
   {
     "id": 97,
@@ -773,7 +965,9 @@
     "author": "Louisa May Alcott",
     "year": 1868,
     "genre": "Historical Fiction",
-    "themes": ["family", "sisterhood", "coming-of-age", "feminism"]
+    "themes": ["family", "sisterhood", "coming-of-age", "feminism"],
+    "description": "The March sisters grow up during the Civil War, each pursuing their dreams. A timeless classic about family, ambition, and the bonds between sisters.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562690475i/1934.jpg"
   },
   {
     "id": 98,
@@ -781,7 +975,9 @@
     "author": "William Goldman",
     "year": 1973,
     "genre": "Fantasy Adventure",
-    "themes": ["true love", "adventure", "humor", "revenge"]
+    "themes": ["true love", "adventure", "humor", "revenge"],
+    "description": "Buttercup and Westley's true love story features pirates, revenge, sword fights, and miracles. A hilarious, romantic adventure that's a beloved classic.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327903636i/21787.jpg"
   },
   {
     "id": 99,
@@ -789,7 +985,9 @@
     "author": "Lois Lowry",
     "year": 1989,
     "genre": "Historical Fiction",
-    "themes": ["World War II", "courage", "friendship", "Holocaust"]
+    "themes": ["World War II", "courage", "friendship", "Holocaust"],
+    "description": "Annemarie helps her Jewish best friend escape Nazi-occupied Denmark. A powerful, accessible story about courage and friendship during the Holocaust.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663113957i/95213.jpg"
   },
   {
     "id": 100,
@@ -797,6 +995,8 @@
     "author": "Katherine Paterson",
     "year": 1977,
     "genre": "Contemporary",
-    "themes": ["friendship", "imagination", "grief", "childhood"]
+    "themes": ["friendship", "imagination", "grief", "childhood"],
+    "description": "Jess and Leslie create an imaginary kingdom in the woods. A beautiful, heartbreaking story about friendship, imagination, and coping with loss.",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663104872i/2839.jpg"
   }
 ]

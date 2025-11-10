@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     setupEventListeners();
     renderBooks();
     updateStats();
+    renderRecommendations();
 });
 
 // Load books from JSON
@@ -44,6 +45,7 @@ function saveUserData() {
     localStorage.setItem('yaBookTracker', JSON.stringify(userBooks));
     updateStats();
     renderBooks();
+    renderRecommendations();
 }
 
 // Populate filter dropdowns
@@ -398,6 +400,117 @@ function showError(message) {
         <div class="empty-state">
             <h3>Error</h3>
             <p>${message}</p>
+        </div>
+    `;
+}
+
+// Generate book recommendations
+function generateRecommendations() {
+    // Get highly rated books (4-5 stars)
+    const highlyRatedBooks = Object.entries(userBooks)
+        .filter(([id, data]) => data.read && data.rating >= 4)
+        .map(([id]) => parseInt(id));
+
+    // If user hasn't rated any books highly, return empty array
+    if (highlyRatedBooks.length === 0) {
+        return [];
+    }
+
+    // Get the books objects for highly rated books
+    const ratedBooks = books.filter(book => highlyRatedBooks.includes(book.id));
+
+    // Collect genres and themes from highly rated books
+    const preferredGenres = {};
+    const preferredThemes = {};
+
+    ratedBooks.forEach(book => {
+        // Count genres
+        preferredGenres[book.genre] = (preferredGenres[book.genre] || 0) + 1;
+
+        // Count themes
+        book.themes.forEach(theme => {
+            preferredThemes[theme] = (preferredThemes[theme] || 0) + 1;
+        });
+    });
+
+    // Get unread books
+    const unreadBooks = books.filter(book => !userBooks[book.id]?.read);
+
+    // Score each unread book based on matching genres and themes
+    const scoredBooks = unreadBooks.map(book => {
+        let score = 0;
+
+        // Add points for matching genre (weighted higher)
+        if (preferredGenres[book.genre]) {
+            score += preferredGenres[book.genre] * 3;
+        }
+
+        // Add points for matching themes
+        book.themes.forEach(theme => {
+            if (preferredThemes[theme]) {
+                score += preferredThemes[theme];
+            }
+        });
+
+        return { book, score };
+    });
+
+    // Sort by score and return top 6 recommendations
+    return scoredBooks
+        .filter(item => item.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .slice(0, 6)
+        .map(item => item.book);
+}
+
+// Render recommendations
+function renderRecommendations() {
+    const recommendations = generateRecommendations();
+    const section = document.getElementById('recommendations-section');
+    const container = document.getElementById('recommendations-container');
+
+    // Hide section if no recommendations
+    if (recommendations.length === 0) {
+        section.style.display = 'none';
+        return;
+    }
+
+    // Show section and render recommendations
+    section.style.display = 'block';
+    container.innerHTML = recommendations.map(book => createRecommendationCard(book)).join('');
+
+    // Add click listeners to recommendation cards
+    document.querySelectorAll('.recommendation-card').forEach(card => {
+        card.addEventListener('click', () => {
+            const bookId = parseInt(card.dataset.bookId);
+            openModal(bookId);
+        });
+    });
+}
+
+// Create recommendation card HTML
+function createRecommendationCard(book) {
+    const themesDisplay = book.themes.slice(0, 2).join(', ');
+
+    return `
+        <div class="recommendation-card" data-book-id="${book.id}">
+            <div class="recommendation-cover">
+                <img src="${book.coverUrl}" alt="${book.title}" onerror="this.src='https://via.placeholder.com/200x300?text=No+Cover'">
+            </div>
+            <div class="recommendation-content">
+                <h3 class="recommendation-title">${book.title}</h3>
+                <p class="recommendation-author">by ${book.author}</p>
+                <p class="recommendation-description">${book.description}</p>
+                <div class="recommendation-meta">
+                    <span class="recommendation-genre">${book.genre}</span>
+                    <span class="recommendation-year">${book.year}</span>
+                </div>
+                <div class="recommendation-themes">
+                    ${book.themes.slice(0, 3).map(theme => `
+                        <span class="theme-tag">${theme}</span>
+                    `).join('')}
+                </div>
+            </div>
         </div>
     `;
 }
